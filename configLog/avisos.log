@@ -1,0 +1,15 @@
+[2021-10-27 09:22:17] [ INFO ] [Main:14] O Logger está funcionando
+[2021-10-27 09:29:33] [ INFO ] [Main:14] O Logger está funcionando!
+[2021-10-27 09:29:33] [ ERROR] [Main:15] O logger error está funcionando!
+[2021-10-27 09:29:33] [ WARN ] [Main:16] O logger warn está funcionando!
+[2021-10-27 09:29:33] [ DEBUG] [Main:17] O logger debug está funcionando!
+[2021-10-27 09:29:33] [ FATAL] [Main:19] O logger fatal está funcionando!
+[2021-10-27 09:33:23] [ INFO ] [Main:14] O Logger info está funcionando!
+[2021-10-27 09:33:23] [ ERROR] [Main:15] O logger error está funcionando!
+[2021-10-27 09:33:23] [ WARN ] [Main:16] O logger warn está funcionando!
+[2021-10-27 09:33:23] [ DEBUG] [Main:17] O logger debug está funcionando!
+[2021-10-27 09:33:23] [ FATAL] [Main:18] O logger fatal está funcionando!
+[2021-10-27 10:21:19] [ INFO ] [Main:26] Lista de numeros é menor que 5.
+[2021-10-27 10:21:19] [ INFO ] [Main:27] A média é igual a 2.5
+[2021-10-27 10:29:00] [ INFO ] [Main:26] Lista de numeros é menor que 5.
+[2021-10-27 10:29:00] [ INFO ] [Main:31] A média é igual a 2.5
